@@ -1,2 +1,3 @@
-# slate-in-action
-Practice on Slate Documentation Tool
+slate-in-action
+========
+

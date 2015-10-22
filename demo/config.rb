@@ -28,6 +28,9 @@ end
 activate :relative_assets
 set :relative_links, true
 
+# Active the liverealod
+activate :livereload
+
 # Build Configuration
 configure :build do
   activate :minify_css
